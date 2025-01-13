@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/html-entities.dtd">
+<topic xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" is-library="true" id="playbook_snippets" title="Playbook snippets">
+    <!-- Put your snippets here -->
+
+    <title>
+        Reproduction Items
+    </title>
+    <p>Allot at least 3 weeks for request completion.</p>
+    <p>Reproduction orders are placed by the assigned Captain.</p>
+    <table>
+        <tr>
+            <td>
+                <control>ITEM</control>
+            </td>
+            <td>
+                <control>AMOUNT</control>
+            </td>
+            <td>
+                <control>NOTES</control>
+            </td>
+        </tr>
+        <tr>
+            <td>Probationary Student Handbook</td>
+            <td>200</td>
+            <td>Give to DI Kelly upon receipt</td>
+        </tr>
+        <tr>
+            <td>Probationary Parking IDs (Ensure new color each class)</td>
+            <td>200</td>
+            <td>Give to DI Kelly upon receipt</td>
+        </tr>
+        <tr>
+            <td>Demerit Cards</td>
+            <td>2000</td>
+            <td>Only order if needed</td>
+        </tr>
+        <tr>
+            <td>FDNY Operating Guide Procedures</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>FDNY OGP BINDERS</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Rotation packets</td>
+            <td>200</td>
+            <td>Give to the rotation coordinator</td>
+        </tr>
+        <tr>
+            <td>EMT Refresher Manual</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SLAM Cards</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>NYC GOP / APPENDIX (Current Version)</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>NYC Prehospital treatment protocols (Current Version)</td>
+            <td>200</td>
+            <td></td>
+        </tr>
+    </table>
+
+</topic>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="pp"
+                 name="PTP/PES Playbook"
+                 start-page="Tutorial.md">
+
+    <toc-element toc-title="Program Timeline">
+        <toc-element toc-title="Pre class prep">
+            <toc-element topic="Tutorial.md"/>
+            <toc-element topic="5-weeks-to-start.md"/>
+            <toc-element topic="4-weeks-to-start.md"/>
+            <toc-element topic="1-2-weeks-to-start.md"/>
+        </toc-element>
+        <toc-element toc-title="Class in session">
+            <toc-element topic="Day-1.md"/>
+            <toc-element topic="Week-1-of-program.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Program-Material-List.md"/>
+</instance-profile>
