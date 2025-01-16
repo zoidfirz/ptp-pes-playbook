@@ -61,7 +61,9 @@ _Let them know if any members had prior city service. Pay special attention to *
 > * [EMSCAD Phone Request](https://fdnycprod.service-now.com/sp?id=sc_cat_item&sys_id=c7f4291fdb3e98102c1c6f13ca9619cf&sysparm_category=1d7af1d1db3d08508578e536ca961906)
 > 
 > 
-> ![Service now attachment button](servicenow attachment screenshot.png)
+
+[//]: # (> ![Service now attachment button]&#40;servicenow attachment screenshot.png&#41;)
+> ![Service now attachment button](../images/servicenow attachment screenshot.png)
 > 
 > Email [DAC Cacciola, BOT DAC, BOT DVC, program Deputy chief, program captain LT Lau and Rick Woehrle](mailto:richard.woehrle@fdny.nyc.gov,grace.cacciola@fdny.nyc.gov,tonya.boyd@fdny.nyc.gov,john.eyzaguirre@fdny.nyc.gov,kahlia.graham@fdny.nyc.gov,david.cira@fdny.nyc.gov,terence.lau@fdny.nyc.gov)
 > 
