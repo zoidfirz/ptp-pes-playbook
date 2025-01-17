@@ -62,7 +62,6 @@ _Let them know if any members had prior city service. Pay special attention to *
 > 
 >
 
-<img src="servicenow_attachment_screenshot.png" alt="servicenow attach file screenshot"/>
 
 [//]: # (> ![Service now attachment button]&#40;servicenow attachment screenshot.PNG&#41;)
 [//]: # (> ![Service now attachment button]&#40;../images/servicenow_attachment_screenshot.png&#41;)
