@@ -62,9 +62,12 @@ _Let them know if any members had prior city service. Pay special attention to *
 > 
 > 
 
+![](servicenow_attachment_screenshot.png)
+
 [//]: # (> ![Service now attachment button]&#40;servicenow attachment screenshot.PNG&#41;)
 [//]: # (> ![Service now attachment button]&#40;../images/servicenow_attachment_screenshot.png&#41;)
->  k
+>  
 > Email [DAC Cacciola, BOT DAC, BOT DVC, program Deputy chief, program captain LT Lau and Rick Woehrle](mailto:richard.woehrle@fdny.nyc.gov,grace.cacciola@fdny.nyc.gov,tonya.boyd@fdny.nyc.gov,john.eyzaguirre@fdny.nyc.gov,kahlia.graham@fdny.nyc.gov,david.cira@fdny.nyc.gov,terence.lau@fdny.nyc.gov)
 > 
 > Include the ticket number and roster.
+> 
