@@ -60,9 +60,9 @@ _Let them know if any members had prior city service. Pay special attention to *
 > * [Onboarding Request](https://fdnycprod.service-now.com/sp?id=sc_category&sys_id=6e9b3115db3d08508578e536ca96193d&catalog_id=e0d08b13c3330100c8b837659bba8fb4)
 > * [EMSCAD Phone Request](https://fdnycprod.service-now.com/sp?id=sc_cat_item&sys_id=c7f4291fdb3e98102c1c6f13ca9619cf&sysparm_category=1d7af1d1db3d08508578e536ca961906)
 > 
-> 
+>
 
-![](servicenow_attachment_screenshot.png)
+<img src="servicenow_attachment_screenshot.png" alt="servicenow attach file screenshot"/>
 
 [//]: # (> ![Service now attachment button]&#40;servicenow attachment screenshot.PNG&#41;)
 [//]: # (> ![Service now attachment button]&#40;../images/servicenow_attachment_screenshot.png&#41;)
